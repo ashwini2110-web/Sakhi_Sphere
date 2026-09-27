@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr-patron",
+    "email": "claire@consciouscraft.co.uk",
+    "full_name": "Claire Henderson",
+    "role": "customer",
+    "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=120&q=80",
+    "phone": "+447911123456",
+    "bio": "Architect, conscious patron & regular backer of sovereign women artisans worldwide.",
+    "location": "London, UK",
+    "created_at": "2024-06-15T09:00:00Z",
+    "updated_at": "2026-03-20T10:00:00Z"
+  },
+  {
+    "id": "usr-meera",
+    "email": "meera@earthpetals.org",
+    "full_name": "Meera Patel",
+    "role": "entrepreneur",
+    "avatar_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAC97X4rvvCgaiVRaNZyECBx79Jz4smQnekmH83dXl_RWa09shisejVv-ndUtCzywURmU_F7g-BkA850egUXCNPRdlyeDLxeAvrFSK3igkD6SkRyEMuYtP-xRFz-vOB63mPlaLjrlc1-HU-X58EN_MiVS7Rj2Hw3saXsQ2wA0oe2eJ7bqyazl9H4BGDE9Yd9Bv2yfuIEbOuyDgDBOUQR5cdBnFx9lskKI2RunSv5H9Cp0r9Mfi6ZN5v",
+    "phone": "+919876543210",
+    "bio": "Founder of Earth & Petals Botanical Alchemy. High-altitude Himalayan botanical distiller and community elder.",
+    "location": "Himachal Pradesh, India",
+    "created_at": "2024-03-10T12:00:00Z",
+    "updated_at": "2026-03-22T08:15:00Z"
+  }
+]

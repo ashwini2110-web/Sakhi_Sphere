@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cat-crafts",
+    "name": "Handmade Crafts",
+    "slug": "handmade-crafts",
+    "icon": "handyman",
+    "description": "Ancient pit-loom weaving, ceramics, brass metals, and terracotta sculptures"
+  },
+  {
+    "id": "cat-bakery",
+    "name": "Artisan Bakery",
+    "slug": "artisan-bakery",
+    "icon": "bakery_dining",
+    "description": "Wild fermented sourdough, cardamom cruffins, celebration cakes & tea loaves"
+  },
+  {
+    "id": "cat-boutique",
+    "name": "Fashion Boutique",
+    "slug": "fashion-boutique",
+    "icon": "styler",
+    "description": "Handspun tussar silk sarees, breathable Bengal linen co-ords & bespoke tailoring"
+  },
+  {
+    "id": "cat-beauty",
+    "name": "Beauty & Wellness",
+    "slug": "beauty-services",
+    "icon": "spa",
+    "description": "Farm-to-face Ayurvedic oils, botanical skincare, Kansa wand facials & ritual treatments"
+  },
+  {
+    "id": "cat-digital",
+    "name": "Digital Services",
+    "slug": "digital-services",
+    "icon": "terminal",
+    "description": "Brand identity, Shopify store builds, social reels strategy & ethical digital tools"
+  },
+  {
+    "id": "cat-botanical",
+    "name": "Botanical Oils",
+    "slug": "botanical-oils",
+    "icon": "local_florist",
+    "description": "Wildcrafted serums, distillations, and cold-pressed botanical essences"
+  },
+  {
+    "id": "cat-ceramics",
+    "name": "Ceramics & Clay",
+    "slug": "ceramics-clay",
+    "icon": "palette",
+    "description": "Stoneware, terracotta, and pit-fired chawan pottery"
+  },
+  {
+    "id": "cat-blockprint",
+    "name": "Block Printing",
+    "slug": "block-printing",
+    "icon": "brush",
+    "description": "Ajrakh resist and hand-carved teak block textile prints"
+  },
+  {
+    "id": "cat-spices",
+    "name": "Heirloom Spices",
+    "slug": "heirloom-spices",
+    "icon": "nutrition",
+    "description": "Single-origin saffron, Wayanad cardamom, and cold-ground spices"
+  },
+  {
+    "id": "cat-paper",
+    "name": "Handmade Paper",
+    "slug": "handmade-paper",
+    "icon": "history_edu",
+    "description": "Cotton rag, botanical petal stationery, and hand-bound journals"
+  }
+]

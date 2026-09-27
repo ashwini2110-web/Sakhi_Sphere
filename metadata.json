@@ -1,0 +1,6 @@
+{
+  "name": "SakhiSphere — Women Entrepreneurs & Sisterhood Marketplace",
+  "description": "A trust-first platform empowering women entrepreneurs to showcase businesses, products, services and craft stories through search, reels, reviews and direct WhatsApp communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
